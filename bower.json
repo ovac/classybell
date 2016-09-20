@@ -1,0 +1,19 @@
+{
+  "name": "classybell",
+  "description": "classybell online ticketing agent",
+  "main": "index.js",
+  "authors": [
+    "Ariama Victor <amata5000@yahoo.com> (A.K.A. OVAC BOYA)"
+  ],
+  "license": "ISC",
+  "homepage": "http://www.classybell.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ]
+}
